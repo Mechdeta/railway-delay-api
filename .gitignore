@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Built files
+dist/
+coverage/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
